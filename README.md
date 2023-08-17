@@ -1,1 +1,2 @@
 # -EDA1-
+In this project, I performed Exploratory Data Analysis (EDA) on a dataset containing sales data from a supermarket. The dataset includes various columns such as invoice ID, branch, city, customer type, gender, product line, unit price, quantity, tax, total, date, time, payment method, cost of goods sold (cogs), gross margin percentage, gross income, and rating. The main goal of the project was to gain insights into the sales trends, customer behavior, and relationships between different variables.
